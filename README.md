@@ -1,6 +1,6 @@
 # Sports-Analysis
 
-Problem Statement: 
+Problem Statement: Analyze cricket player data to assess fitness and performance for an upcoming T20 game. Provide insights into current form, historical performance, and playing styles to support informed decisions on player selection and strategic planning.
 
 NAME : RAMYA KRISHNAN A
 
